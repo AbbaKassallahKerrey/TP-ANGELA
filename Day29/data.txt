@@ -1,0 +1,3 @@
+apple | abba@ipad.com | 12345678
+google | www.google.fr | 1234567890
+ipad | abbb@bsbs.com | 123456789
